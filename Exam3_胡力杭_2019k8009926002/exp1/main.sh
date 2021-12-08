@@ -1,0 +1,1 @@
+./main ./dragon.obj ./$1.obj $2

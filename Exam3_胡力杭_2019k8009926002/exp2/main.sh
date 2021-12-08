@@ -1,0 +1,1 @@
+./exp1_main ./dragon.obj ./$1.obj $2  && ./exp2_main $1.obj
